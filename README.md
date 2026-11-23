@@ -35,9 +35,9 @@ A versão inicial 1.0.0 foi compilada no Termux em um dispositivo Android. Baixe
 
 ## Captura enviada
 
-![Captura do Termux durante uma tentativa inicial de instalação dos pacotes](docs/screenshots/termux-initial-build-attempt.jpg)
+![Tela inicial do ZipSqueeze no Android](docs/screenshots/zipsqueeze-home.jpg)
 
-*Registro intermediário da configuração: a tentativa mostrada falhou ao solicitar um pacote `zipalign` inexistente no espelho usado. O script foi ajustado e a APK da release foi compilada depois dessa captura.*
+*Captura da tela inicial da versão inicial do aplicativo.*
 
 ## English
 
