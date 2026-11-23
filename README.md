@@ -18,13 +18,3 @@ This build does **not** progressively free the source ZIP's occupied blocks. Sta
 ## Not implemented in this build
 
 Kotlin/Compose, Hilt, Room, WorkManager/foreground notifications, crash resume, Shizuku, encrypted ZIPs, RAR/7z/TAR/GZ/BZ2/XZ, SHA-256 input, progress estimation/minimum-space preflight, and automated test coverage. These require a full Android Gradle toolchain and dependencies; the phone-specific build environment documented by the workspace does not provide them. Do not use this build for password-protected archives.
-
-## Build
-
-From the Buddy workspace, run:
-
-```sh
-bash .claude/skills/android-app/build-apk.sh "$PWD/ZipSqueeze"
-```
-
-Output: `ZipSqueeze/build/app.apk`.
